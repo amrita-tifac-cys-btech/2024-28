@@ -23,7 +23,7 @@
 |:--------:|:------------------------------:|:-----------------------:|:--------------------|-------------------|
 | [24UCYS#01](https://github.com/amrita-tifac-cys-btech/2024-Team-01) |   [Dr. Praveen K](https://www.amrita.edu/faculty/) <br/> [Mr. Rajeev K]() | 24008 <br/> 24113 <br/> 24156 <br/> 24158 <br/> 24168 | Bathina Manikanta Srinivas <br/> Chirag Bagri <br/> Vinaykumar Kode <br/> Vobilisetti Mahith <br/> Malleddi Veera Venkata Nagendra |    |
 | [24UCYS#02](https://github.com/amrita-tifac-cys-btech/2024-Team-02) |   [Dr. Aravind Vishnu S S ](https://www.amrita.edu/faculty/) <br/> [Dr. Chungath Srinivasan]()  | 24002  <br/> 24037 <br/> 24105 <br/> 24107 <br/> 24169 | Akkaraju Rasagnya <br/> Balanethra M  <br/> Amitesh Padmanaban <br/> Annapureddy Dharaneesh <br/> Chadive Revanth Sai Reddy |   |
-| [24UCYS#03](https://github.com/amrita-tifac-cys-btech/2024-Team-03) |   [](https://www.amrita.edu/faculty/)  |  |  |   |
+| [24UCYS#03](https://github.com/amrita-tifac-cys-btech/2024-Team-03) |   [Dr. Sindhu V](https://www.amrita.edu/faculty/) <br/> [Dr. Aravind Vishnu S S ](https://www.amrita.edu/faculty/)  | 24009 <br/> 24028 <br/> 24035 <br/> 24053 <br/> 24068  | Bhadri Laasya Priya <br/> V. S. Karnika <br/> Krithikk. T <br/> Shafeeq Umar <br/> Sudireddy Charan  |   |
 | [24UCYS#04](https://github.com/amrita-tifac-cys-btech/2024-Team-04) |   [](https://www.amrita.edu/faculty/)  |  |  |   |
 | [24UCYS#05](https://github.com/amrita-tifac-cys-btech/2024-Team-05) |   [](https://www.amrita.edu/faculty/)  |  |  |   |
 | [24UCYS#06](https://github.com/amrita-tifac-cys-btech/2024-Team-06) |   [](https://www.amrita.edu/faculty/)  |  |  |   |
